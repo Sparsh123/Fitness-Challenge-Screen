@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="winnerColor">#3CB371</color>
+    <color name="darkBlue">#090654</color>
+    <color name="blueGreen">#0D4F57</color>
+    <color name="lightGreen">#8CC88F</color>
+<color name="skyBlue">#57D2CE</color>
+    <color name="barBlue">#8BA7A6</color>
+
+    <color name="background">#00AAAA </color>
+
+</resources>
